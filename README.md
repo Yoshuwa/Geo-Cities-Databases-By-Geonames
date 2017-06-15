@@ -2,6 +2,6 @@
 
 ## Install
 
-    cp examples/app.yaml ./
+    1. Create a database, insert "SQL/database.sql".
 
 Then
